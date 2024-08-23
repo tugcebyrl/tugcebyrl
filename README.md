@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tugce</h1>
 <h3 align="center">A passionate Electronic Engineer</h3>
 
-- 🌱 I’m currently learning **Front-end web development**
+- 🌱 I’m currently learning **Python-Django and ML Applications**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tugce-bayirli-82602b183/](https://www.linkedin.com/in/tugce-bayirli-82602b183/)
 
