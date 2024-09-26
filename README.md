@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tugce-bayirli-82602b183/](https://www.linkedin.com/in/tugce-bayirli-82602b183/)
 
-- 💬 Ask me about **Python (Image Processing, Desktop Application), Microcontroller Programming - C/C++, MicroPython(STM32, ESP32, Raspberry Pi, Arduino), IoT Sensors And Applications**
+- 💬 Ask me about **Python (Image Processing, Desktop Applications), Microcontroller Programming - C/C++, MicroPython(STM32, ESP32, Raspberry Pi, Arduino), IoT Sensors And Applications**
 
 - 📫 How to reach me **tugcebayirliiu@gmail.com**
 
